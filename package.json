@@ -1,0 +1,15 @@
+{
+  "name": "st_boxing",
+  "version": "1.0.0",
+  "description": "As a User.  so I can see see the stats,  I would like to be able to select the fighter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxrec": "^7.1.1",
+    "dotenv": "^8.2.0"
+  }
+}
